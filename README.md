@@ -1,18 +1,34 @@
-                       1. Challenges
-                                    \
-                       2. Skills -> 4. Agency -> 5. Overflow -> 6. Growth
-                                    /
-                                    3. Tools
-
-
-###  Dionsus 
-- [Music](https://abikesa.github.io/apple/), Pictures, Film
-- System
-  
-###  Sing O Muse!
-- Applications
-- Library
-  
-###  Apollo
-- Users
-- Public
+```sh
+├── Applications
+├── Library
+├── System
+├── Users
+│   ├── Shared
+│   └── d
+│       ├── Applications
+│       ├── Desktop
+│       ├── Documents
+│       │   ├── Chords
+│       │   ├── Melody
+│       │   ├── Rhythm
+│       │   ├── Scripts
+│       │   └── Stata
+│       ├── Downloads
+│       ├── Dropbox -> /Users/d/Dropbox (Personal)
+│       ├── Library
+│       ├── Movies
+│       ├── Music
+│       ├── Oldbox
+│       ├── Pictures
+│       └── Public
+├── Volumes
+├── bin
+├── cores
+├── dev
+├── etc -> private/etc
+├── home -> /System/Volumes/Data/home
+├── opt
+├── private
+├── sbin
+├── tmp -> private/tmp
+└── usr
